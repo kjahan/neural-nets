@@ -1,4 +1,4 @@
-# neural-nets
+# Neural-Nets
 
 In this tutorial we want to play with a few Neural Networks architecture for classification problems.
 
