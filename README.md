@@ -2,7 +2,7 @@
 
 In this tutorial we want to play with a few Neural Networks architecture for classification problems.
 
-# Playing with "Keras + TensorFlow":
+# Classification with "Keras + TensorFlow":
 
 Step I: Setup an AWS instance with Deep Learning AMI which comes with a number of deep learning frameworks pre-installed in seperate virtual environments: MXNET, TensorFlow, Caffe, Caffe2, PyTorch, Keras, Chainer, Theano, and CNTK.  We selected g3.4xlarge (GPU instance) for the node with 122 GB memory.
 
